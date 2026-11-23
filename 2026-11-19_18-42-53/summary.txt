@@ -1,13 +1,13 @@
 Battery log summary
 Folder:            C:\Users\Todor\Downloads\Archive 2\battery-logs\2026-11-19_18-42-53
 Started:           2026-11-19 18:42:53
-Last sample:       2026-11-23 18:03:50
-Samples:           34283 ok, 0 failed
-Time measured:     95:18:10  (not measured, gaps: 00:00:00)
+Last sample:       2026-11-23 19:04:00
+Samples:           34644 ok, 0 failed
+Time measured:     96:18:20  (not measured, gaps: 00:00:00)
 
-Discharged (used): 73.152 kWh   186.77 Ah
+Discharged (used): 75.579 kWh   192.99 Ah
 Charged:           55.741 kWh   139.05 Ah
-Net (charged - used): -17.411 kWh
-Average discharge: 768 W   average charge: 585 W
-BMS remaining capacity: 31.7 -> 13.1 kWh (change -18.6 kWh)
-SOC: 97 % -> 40 %
+Net (charged - used): -19.838 kWh
+Average discharge: 785 W   average charge: 579 W
+BMS remaining capacity: 31.7 -> 10.8 kWh (change -20.9 kWh)
+SOC: 97 % -> 33 %
